@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = csv_to_form
+build_property.ProjectDir = C:\Users\promi\source\repos\air_table\csv_to_form\
